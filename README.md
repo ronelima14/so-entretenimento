@@ -1,2 +1,2 @@
-# so-entretenimento
+# Só Entretenimento
 Integrator Project
