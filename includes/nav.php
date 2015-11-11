@@ -20,7 +20,10 @@
 	   				<button type="button" class="btn btn-default">HQ</button>
 	  			</div>
 	  			<div class="btn-group" role="group">
-	   				<button type="button" class="btn btn-default">Lazer</button>
+	   				<button type="button" class="btn btn-default">Agenda</button>
+	  			</div>
+	  			<div class="btn-group" role="group">
+	   				<button type="button" class="btn btn-default">Contato</button>
 	  			</div>
 				</div>
 			</div>
