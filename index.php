@@ -18,7 +18,7 @@
 <body>
     
     	<?php
-    		@include "includes/nav.php";
+    		@include "includes/header.php";
     	?>
     <div class="container">
         <!-- main -->

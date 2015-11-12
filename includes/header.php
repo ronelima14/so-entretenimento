@@ -1,7 +1,8 @@
 	<div class="col-md-12">
-	<?php
-		@include "includes/head.php";
-	?>
+		<header>
+			<div class="row">
+				<img src="images/logo.jpg" alt="" class="img-responsive center-block">
+			</div>
 			<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
     			<div class="container">
         			<div class="navbar-header">
