@@ -23,7 +23,7 @@
     <div class="container">
         <!-- main -->
         <article>
-            <img src="https://placeholdit.imgix.net/~text?txtsize=56&txt=600%C3%97400&w=600&h=400   " alt="" class="col-xs-12 col-sm-8 col-md-8 col-lg-8 ">
+            <img src="http://migre.me/s5Ugq" alt="" class="col-xs-12 col-sm-8 col-md-8 col-lg-8 ">
         </article>
         <!-- side main -->
         <section>
