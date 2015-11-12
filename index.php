@@ -33,7 +33,7 @@
         <div class="clearfix"></div>
         <!-- categories -->
         <!-- movies -->
-        <section class="featured-section-movies">
+        <section>
             <h1>Filmes</h1>
             <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
             <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
