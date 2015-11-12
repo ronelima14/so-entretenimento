@@ -28,7 +28,7 @@
         <!-- side main -->
         <section>
             <img src="http://migre.me/s5Ugq" alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="https://placeholdit.imgix.net/~text?txtsize=56&txt=600%C3%97400&w=600&h=400" alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <img src="http://migre.me/s5Ugq" alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
         </section>
         <div class="clearfix"></div>
         <!-- categories -->
