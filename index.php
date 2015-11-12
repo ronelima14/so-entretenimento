@@ -24,12 +24,13 @@
         <!-- main -->
         <article>
             <img src="http://migre.me/s5Ugq" alt="" class="col-xs-12 col-sm-8 col-md-8 col-lg-8 ">
-        </article>
-        <!-- side main -->
+                <!-- side main -->
         <section>
             <img src="http://migre.me/s5Ugq" alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <img src="http://migre.me/s5Ugq " alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
         </section>
+        </article>
+
         <div class="clearfix"></div>
         <!-- categories -->
         <!-- movies -->
@@ -40,33 +41,7 @@
             <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
         </section>
         <!-- TV -->
-        <section>
-            <h1>TV</h1>
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
-        </section>
-        <!-- HQ -->
-        <section>
-            <h1>HQs</h1>
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
-        </section>
-        <!-- Lazer -->
-        <section>
-            <h1>Lazer</h1>
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
-        </section>
-        <!-- Música -->
-        <section>
-            <h1>Música</h1>
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
-        </section>
+        
     </div>
 <?php
     @include "includes/footer.php";
