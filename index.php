@@ -23,12 +23,12 @@
     <div class="container">
         <!-- main -->
         <article>
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-8 col-md-8 col-lg-8 ">
+            <img src="https://placeholdit.imgix.net/~text?txtsize=56&txt=600%C3%97400&w=600&h=400   " alt="" class="col-xs-12 col-sm-8 col-md-8 col-lg-8 ">
         </article>
         <!-- side main -->
         <section>
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <img src="https://placeholdit.imgix.net/~text?txtsize=56&txt=600%C3%97400&w=600&h=400" alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <img src="https://placeholdit.imgix.net/~text?txtsize=56&txt=600%C3%97400&w=600&h=400" alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
         </section>
         <div class="clearfix"></div>
         <!-- categories -->

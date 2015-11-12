@@ -2,31 +2,29 @@
 	<?php
 		@include "includes/head.php";
 	?>
-			<div class="row">
-				<div class="btn-group btn-group-justified" role="group" aria-label="...">
-	  			<div class="btn-group" role="group">
-	    			<button type="button" class="btn btn-default">Home</button>
-	  			</div>
-	  			<div class="btn-group" role="group">
-	   				<button type="button" class="btn btn-default">Filmes</button>
-	  			</div>
-	  			<div class="btn-group" role="group">
-	   				<button type="button" class="btn btn-default">TV</button>
-	  			</div>
-	  			<div class="btn-group" role="group">
-	   				<button type="button" class="btn btn-default">Música</button>
-	  			</div>
-	  			<div class="btn-group" role="group">
-	   				<button type="button" class="btn btn-default">HQ</button>
-	  			</div>
-	  			<div class="btn-group" role="group">
-	   				<button type="button" class="btn btn-default">Agenda</button>
-	  			</div>
-	  			<div class="btn-group" role="group">
-	   				<button type="button" class="btn btn-default">Contato</button>
-	  			</div>
-				</div>
-			</div>
+			<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+    			<div class="container">
+        			<div class="navbar-header">
+			            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+			                <span class="sr-only">Toggle navigation</span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			                <span class="icon-bar"></span>
+			            </button>
+        			</div>
+
+        			<!-- Collect the nav links, forms, and other content for toggling -->
+			        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			            <ul class="nav navbar-nav">
+			                <li><a href="index.php">Home</a></li>
+			                <li><a href="about.php">About</a></li>
+			                <li><a href="#portfolio">Portfolio</a></li>
+			                <li><a href="#">Blog</a></li>
+			                <li><a href="contact.php">Contact</a></li>
+			            </ul>
+			        </div>
+    			</div>
+			</nav>
 		</header>
 	</div>
 
@@ -41,5 +39,4 @@
 				      <li><a href="#">Dropdown link</a></li>
 				    </ul>
 				 </div>
-
 -->
