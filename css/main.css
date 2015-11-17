@@ -12,3 +12,11 @@ img{
 .featured-section-movies{
 	background-color: #16A086;
 }
+
+p {
+	font-family: 'Lato', 'Verdana', sans-serif;
+}
+
+div.spaced{
+	margin: 0 0 4% 0;
+}

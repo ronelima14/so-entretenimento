@@ -23,7 +23,7 @@
     <div class="container">
         <!-- main -->
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <a href="http://localhost/integrador/padrao-noticia.php"><img src="http://migre.me/s5Ugq" alt=""></a>
+            <a href="padrao-noticia.php"><img src="http://migre.me/s5Ugq" alt=""></a>
         </article>
         <section>
             <img src="http://migre.me/s5Ugq" alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">

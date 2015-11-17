@@ -16,7 +16,7 @@
 			        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			            <ul class="nav navbar-nav">
 			                <li><a href="index.php">Home</a></li>
-			                <li><a href="">Música</a></li>
+			                <li><a href="musica.php">Música</a></li>
 			            </ul>
 			        </div>
     			</div>
