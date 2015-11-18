@@ -20,3 +20,7 @@ p {
 div.spaced{
 	margin: 0 0 4% 0;
 }
+
+.footer-bottom{
+	margin-bottom: 0 !important;
+}
