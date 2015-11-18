@@ -26,31 +26,31 @@
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
         <section>
             <h5>DC X MARVEL</h5>
-            <a href="padrao-noticia.php"><img src="images/l1.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/l2.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/destaque.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/l1.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/l2.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/destaque.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
             
        </section>
       
         <section>
             <h5>VARIADOS</h5>
-            <a href="padrao-noticia.php"><img src="images/l2.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/destaque.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/l1.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/l2.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/destaque.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/l1.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
         </section>
         
         <section>
             <h5>MANGÁS</h5>
-            <a href="padrao-noticia.php"><img src="images/destaque.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/l1.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/l2.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/destaque.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/l1.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/l2.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
         </section>
         
         <section>
             <h5>EVENTOS</h5>
-            <a href="padrao-noticia.php"><img src="images/l1.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/l2.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/destaque.jpg" alt="" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/l1.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/l2.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/destaque.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-4"></a>
         </section>
         
         </article>

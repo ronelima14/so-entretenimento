@@ -17,7 +17,9 @@
 			            <ul class="nav navbar-nav">
 			                <li><a href="index.php">Home</a></li>
 			                <li><a href="filmes.php">Filmes</a></li>
+			                <li><a href="tv.php">TV</a></li>
 			                <li><a href="musica.php">Música</a></li>
+			                <li><a href="hqs.php">HQ</a></li>
 			            </ul>
 			        </div>
     			</div>
