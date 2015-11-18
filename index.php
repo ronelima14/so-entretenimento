@@ -23,29 +23,51 @@
     <div class="container">
         <!-- main -->
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <a href="padrao-noticia.php"><img src="http://migre.me/s5Ugq" alt=""></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste"></a>
         </article>
         <section>
-            <img src="http://migre.me/s5Ugq" alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="http://migre.me/s5Ugq " alt="" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
         </section>
-        </article>
 
         <div class="clearfix"></div>
         <!-- categories -->
         <!-- movies -->
         <section>
             <h1>Filmes</h1>
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
         </section>
         <!-- TV -->
+        <section>
+            <h1>TV</h1>
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
+        </section>
+        <section>
+            <h1>Música</h1>
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
+        </section>
+        <section>
+            <h1>HQ</h1>
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
+        </section>
+        <section>
+            <h1>Lazer</h1>
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
+        </section>
         
     </div>
 <?php
     @include "includes/footer.php";
-    @include "includes/scripts.php";
 ?>
 </body>
 </html>

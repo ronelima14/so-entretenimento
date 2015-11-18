@@ -24,3 +24,13 @@ div.spaced{
 .footer-bottom{
 	margin-bottom: 0 !important;
 }
+
+#em-breve{ border-bottom-style: groove;
+}
+
+.fonteb{ color: white;
+}
+
+#criticas{
+         border-right-style: groove;
+}

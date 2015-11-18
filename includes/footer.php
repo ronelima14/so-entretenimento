@@ -7,4 +7,7 @@
 				    </ul>
 	        	</div>
 	        </nav>
+	        <?php
+	            @include "includes/scripts.php";
+	        ?>
         </footer>
