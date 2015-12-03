@@ -37,6 +37,16 @@
                 <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12 title-music-page text-justify">Sem saber da morte de Kurt, Nirvana cancelou show no Lolla há 20 anos</h2>
                 <a href="musica-lollapaloza.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
             </div>
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 spaced">
+                <a href="musica-fireflight.php"><img src="images/musica-fireflight.jpg" alt="imagem da banda nirvana" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
+                <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12 title-music-page text-justify">Fireflight - banda de rock gospel - começa a fazer sucesso mundialmente</h2>
+                <a href="musica-fireflight.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 spaced">
+                <a href="musica-metallica.php"><img src="images/musica-metallica.jpg" alt="imagem da banda nirvana" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
+                <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12 title-music-page text-justify">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+                <a href="musica-metallica.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
+            </div>
         </section>
         <!-- TV -->
         
