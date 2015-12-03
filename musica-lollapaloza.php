@@ -35,12 +35,18 @@ Mauris lacinia vestibulum vulputate. Nunc luctus, tellus in tristique volutpat, 
             <div class="container related-container">
                 <h2 class="text-center">Relacionados</h2>
             </div>
-            <img src="images/musica-nirvana.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <h2 class="news">Lorem ipsum dolor sit amet, cita suscipit unde, officia ullam?</h2>
-            <img src="images/musica-nirvana.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <h2 class="news">Lorem ipsum dolor sit amet, cita suscipit unde, officia ullam?</h2>
-            <img src="images/musica-nirvana.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <h2 class="news">Lorem ipsum dolor sit amet, cita suscipit unde, officia ullam?</h2>
+            <a href="musica-KurtNirvana.php">
+                <img src="images/musica-nirvana.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h2 class="news">Kurt Cobain e Nirvana aparecem em fotos do primeiro show da banda</h2>
+            </a>
+            <a href="musica-fireflight.php">
+                <img src="images/musica-fireflight.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h2 class="news">Fireflight - banda de rock gospel - começa a fazer sucesso mundialmente</h2>
+            </a>
+            <a href="musica-metallica.php">
+                <img src="images/musica-metallica.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </a>
         </aside>
         <!-- TV -->
         
