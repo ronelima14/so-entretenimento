@@ -28,24 +28,14 @@
                 <h1 class="text-center music-title">Música</h1>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 spaced">
-                <a href="padrao-noticia.php"><img src="images/musica-nirvana.jpg" alt="imagem da banda nirvana" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
+                <a href="musica-KurtNirvana.php"><img src="images/musica-nirvana.jpg" alt="imagem da banda nirvana" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
                 <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12 title-music-page text-justify">Kurt Cobain e Nirvana aparecem em fotos do primeiro show da banda</h2>
-                <a href="padrao-noticia.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
+                <a href="musica-KurtNirvana.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 spaced">
-                <a href="padrao-noticia.php"><img src="images/musica-lollapaloza.jpg" alt="imagem da Lollapaloza, um evento musical" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
+                <a href="musica-lollapaloza.php"><img src="images/musica-lollapaloza.jpg" alt="imagem da Lollapaloza, um evento musical" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
                 <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12 title-music-page text-justify">Sem saber da morte de Kurt, Nirvana cancelou show no Lolla há 20 anos</h2>
-                <a href="padrao-noticia.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 spaced">
-                <a href="padrao-noticia.php"><img src="images/musica-fireflight.jpg" alt="imagem da banda nirvana" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
-                <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12 title-music-page text-justify">Fireflight - banda de rock gospel - começa a fazer sucesso mundialmente</h2>
-                <a href="padrao-noticia.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 spaced">
-                <a href="padrao-noticia.php"><img src="images/musica-metallica.jpg" alt="imagem da banda nirvana" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
-                <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12 title-music-page text-justify">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
-                <a href="padrao-noticia.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
+                <a href="musica-lollapaloza.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
             </div>
         </section>
         <!-- TV -->
