@@ -1,0 +1,26 @@
+@charset="UTF-8";
+
+.title-music-page {
+	margin-top: -.5%;
+	font-size: 18px;
+	font-family: 'Lato', 'Verdana', sans-serif;
+	color: white;
+}
+
+.music-title {
+	color: #FEFEFE;
+}
+
+.music-container {
+	border-bottom: 2px solid #FEFEFE;
+	width: 95%;
+	margin-bottom: 1%;
+}
+
+html, body {
+	background-image: url('../images/musica-background.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+

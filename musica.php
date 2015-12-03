@@ -14,6 +14,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/music.css">
 </head>
 <body>
     
@@ -23,26 +24,28 @@
     <div class="container">
         <!-- main -->
         <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <h1>Música</h1>
-            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 spaced">
-                <a href="padrao-noticia.php"><img src="images/img.jpg" alt="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
-                <p class="col-xs-12 col-sm-12 col-md-12 col-lg-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus ullam illum quia ipsum consequatur in repudiandae quae a, est, dolore ad eveniet delectus repellat fugit ex perspiciatis dolores voluptas at?</p>
-                <a href="padrao-noticia.php"><button class="btn btn-danger pull-right">Veja mais</button></a>
+            <div class="container music-container">
+                <h1 class="text-center music-title">Música</h1>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 spaced">
-                <a href="padrao-noticia.php"><img src="images/img.jpg" alt="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
-                <p class="col-xs-12 col-sm-12 col-md-12 col-lg-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus ullam illum quia ipsum consequatur in repudiandae quae a, est, dolore ad eveniet delectus repellat fugit ex perspiciatis dolores voluptas at?</p>
-                <a href="padrao-noticia.php"><button class="btn btn-danger pull-right">Veja mais</button></a>
+                <a href="padrao-noticia.php"><img src="images/musica-nirvana.jpg" alt="imagem da banda nirvana" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
+                <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12 title-music-page text-justify">Kurt Cobain e Nirvana aparecem em fotos do primeiro show da banda</h2>
+                <a href="padrao-noticia.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 spaced">
-                <a href="padrao-noticia.php"><img src="images/img.jpg" alt="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
-                <p class="col-xs-12 col-sm-12 col-md-12 col-lg-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus ullam illum quia ipsum consequatur in repudiandae quae a, est, dolore ad eveniet delectus repellat fugit ex perspiciatis dolores voluptas at?</p>
-                <a href="padrao-noticia.php"><button class="btn btn-danger pull-right">Veja mais</button></a>
+                <a href="padrao-noticia.php"><img src="images/musica-lollapaloza.jpg" alt="imagem da Lollapaloza, um evento musical" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
+                <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12 title-music-page text-justify">Sem saber da morte de Kurt, Nirvana cancelou show no Lolla há 20 anos</h2>
+                <a href="padrao-noticia.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 spaced">
-                <a href="padrao-noticia.php"><img src="images/img.jpg" alt="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
-                <p class="col-xs-12 col-sm-12 col-md-12 col-lg-12">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus ullam illum quia ipsum consequatur in repudiandae quae a, est, dolore ad eveniet delectus repellat fugit ex perspiciatis dolores voluptas at?</p>
-                <a href="padrao-noticia.php"><button class="btn btn-danger pull-right">Veja mais</button></a>
+                <a href="padrao-noticia.php"><img src="images/musica-fireflight.jpg" alt="imagem da banda nirvana" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
+                <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12 title-music-page text-justify">Fireflight - banda de rock gospel - começa a fazer sucesso mundialmente</h2>
+                <a href="padrao-noticia.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 spaced">
+                <a href="padrao-noticia.php"><img src="images/musica-metallica.jpg" alt="imagem da banda nirvana" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"></a>
+                <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12 title-music-page text-justify">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+                <a href="padrao-noticia.php"><p class="btn space-bottom col-xs-12 col-sm-12 col-md-3 col-lg-3 btn-default pull-right">leia mais</p></a>
             </div>
         </section>
         <!-- TV -->

@@ -17,20 +17,71 @@ p {
 	font-family: 'Lato', 'Verdana', sans-serif;
 }
 
-div.spaced{
+div.spaced {
 	margin: 0 0 4% 0;
 }
 
-.footer-bottom{
+.footer-bottom {
 	margin-bottom: 0 !important;
 }
 
-#em-breve{ border-bottom-style: groove;
+.title-home {
+	font-family: 'Lato', 'Verdana', sans-serif;
+	font-size: 3rem;
+	color: #898989;
+
 }
 
-.fonteb{ color: white;
+.color-margin {
+	border-bottom: 1px solid #dedede;
+}
+
+.title-news {
+	color: #454545;
+	font-family: 'Lato', 'Verdana', sans-serif;
+	font-size: 30px;
+}
+
+.small {
+	font-size: 14px !important;
+	line-height: 1.48 !important;
+	margin-top: 2%;
+}
+
+header {
+	background-color: #f8f8f8;
+	margin-top: -10px !important;
+	padding-top: 10px;
+}
+
+/* Noticias */
+
+p.news {
+	padding: 14px;
+	color: #454545;
+	font-family: 'Lato', 'Verdana', sans-serif;
+}
+
+
+/* --- --- --- */
+
+
+#em-breve{ 
+	border-bottom-style: groove;
+}
+
+.fonteb{ 
+	color: white;
 }
 
 #criticas{
-         border-right-style: groove;
+	border-right-style: groove;
+}
+
+.form-contact {
+	margin-bottom: 3%;
+}
+
+.space-bottom{
+	margin-bottom: .5%;
 }

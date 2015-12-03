@@ -57,12 +57,12 @@
 
         <aside class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
             <h2>DESTAQUE DO DIA!</h2>
-                 <a href="http://localhost/integrador/padrao-noticia.php"><img src="images/destaque2.jpeg" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                 <a href="http://localhost/integrador/padrao-noticia.php"><img src="images/destaque2.jpeg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
                  <section class="col-xs-12 col-sm-12 col-md-4 col-lg-12">
-                   <p><h3>Guerra Civil</h3></p>
-                   <p><h4>Moore, Stuart</h4></p>
-                   <p><h4>Sobre o Produto</h4></p>
-                   <p><h5>A épica história que provoca a separação do Universo Marvel. Homem de Ferro e Capitão América: dois membros essenciais para os Vingadores, a maior equipe de super-heróis do mundo. Quando uma trágica batalha deixa um buraco na cidade de Stamford, matando centenas de pessoas, o governo americano exige que todos os super-heróis revelem sua identidade e registrem seus poderes. Para Tony Stark - o Homem de Ferro - é um passo lamentável, porém necessário, o que o leva a apoiar a lei. Para o Capitão América, é uma intolerável agressão à liberdade cívica. Assim começa a 'Guerra Civil'.A épica história que provoca a separação do Universo Marvel. Homem de Ferro e Capitão América: dois membros essenciais para os Vingadores, a maior equipe de super-heróis do mundo. Quando uma trágica batalha deixa um buraco na cidade de Stamford, matando centenas de pessoas, o governo americano exige que todos os super-heróis revelem sua identidade e registrem seus poderes. Para Tony Stark - o Homem de Ferro - é um passo lamentável, porém necessário, o que o leva a apoiar a lei. Para o Capitão América, é uma intolerável agressão à liberdade cívica. Assim começa a 'Guerra Civil'.</h5></p>
+                   <h3>Guerra Civil</h3>
+                   <h4>Moore, Stuart</h4>
+                   <h4>Sobre o Produto</h4>
+                   <h5>A épica história que provoca a separação do Universo Marvel. Homem de Ferro e Capitão América: dois membros essenciais para os Vingadores, a maior equipe de super-heróis do mundo. Quando uma trágica batalha deixa um buraco na cidade de Stamford, matando centenas de pessoas, o governo americano exige que todos os super-heróis revelem sua identidade e registrem seus poderes. Para Tony Stark - o Homem de Ferro - é um passo lamentável, porém necessário, o que o leva a apoiar a lei. Para o Capitão América, é uma intolerável agressão à liberdade cívica. Assim começa a 'Guerra Civil'.A épica história que provoca a separação do Universo Marvel. Homem de Ferro e Capitão América: dois membros essenciais para os Vingadores, a maior equipe de super-heróis do mundo. Quando uma trágica batalha deixa um buraco na cidade de Stamford, matando centenas de pessoas, o governo americano exige que todos os super-heróis revelem sua identidade e registrem seus poderes. Para Tony Stark - o Homem de Ferro - é um passo lamentável, porém necessário, o que o leva a apoiar a lei. Para o Capitão América, é uma intolerável agressão à liberdade cívica. Assim começa a 'Guerra Civil'.</h5>
                  </section>
         </aside>
         <section class="col-xs-10 col-sm-6 col-md-8 col-lg-8"><img src="images/propaganda.jpg" alt="" class="col-xs-10 col-sm-12 col-md-12 col-lg-12"></section>

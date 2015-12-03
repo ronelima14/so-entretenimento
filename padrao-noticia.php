@@ -23,17 +23,20 @@
     <div class="container">
         <!-- main -->
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-        	<h1>Ex-baixista do Nirvana afirma: "Foo Fighters é a melhor banda do mundo</h1>
-            <img src="http://migre.me/s5Ugq" alt="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
-            	impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
-            	Fuga praesentium ut a amet.</p>
+        	<h1 class="title-news text-justify">Kurt Cobain e Nirvana aparecem em fotos do primeiro show da banda<p class="small">Maggie Poukkula, de 19 anos, publicou imagens em seu perfil no Twitter.
+Ela é filha de homem que organizou estreia da banda em um porão.</p></h1>
+            <img src="images/musica-nirvana.jpg" alt="imagem da banda Nirvana" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive">
+            <p class="text-justify news">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin orci mi, hendrerit at tellus eget, lacinia vehicula erat. Integer condimentum et tellus at auctor. Nam erat diam, commodo eu urna eu, accumsan scelerisque sem. Aenean eu orci nec mi porta vehicula nec ac velit. Suspendisse bibendum magna et elit varius, vel maximus quam viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla vulputate mattis metus, vel ultrices enim consequat ac. Vivamus id tortor arcu. Cras vel viverra ligula, sit amet pretium justo. Integer pulvinar eu eros et pretium. Suspendisse non felis sit amet nulla facilisis ullamcorper in sit amet nisi. Maecenas sapien ante, euismod in lacus consectetur, vehicula tincidunt erat. Praesent interdum dignissim massa porta vestibulum. Ut blandit arcu ut ex aliquam pharetra.
+
+In hendrerit mauris quis pharetra iaculis. Quisque arcu neque, suscipit ut erat id, tempus suscipit erat. Vestibulum condimentum at nibh blandit venenatis. Sed ultrices nibh nec tellus auctor convallis. Praesent a pellentesque turpis, id vehicula felis. Ut quis risus nec mauris elementum luctus sodales id purus. Pellentesque vestibulum arcu ut velit posuere, sit amet fringilla dui vestibulum. Sed sagittis orci odio, et tristique leo elementum vitae. Sed convallis justo risus, nec placerat tortor lacinia nec. Vestibulum auctor pretium tortor, et condimentum neque. Vivamus ut augue placerat, malesuada ex sed, ullamcorper nulla.
+
+Mauris lacinia vestibulum vulputate. Nunc luctus, tellus in tristique volutpat, nisl ipsum luctus augue, nec vulputate nibh felis vitae felis. Proin id diam eget sem rutrum hendrerit sit amet vel justo. Suspendisse ultricies quam vitae convallis volutpat. Cras vitae arcu non mi posuere aliquam. Aenean vel felis interdum, consectetur diam aliquam, pulvinar ante. In magna erat, eleifend id nisi vitae, scelerisque pharetra tellus. Morbi fermentum velit neque, eget ullamcorper nisl interdum vitae. Nunc sed felis ipsum. Proin dolor nisl, aliquam non nulla vel, rutrum interdum sem. Integer dictum imperdiet metus, vitae tincidunt libero malesuada vitae.</p>
         </article>
         <aside class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <h1>Relacionados</h1>
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <img src="images/img.jpg" alt="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <img src="images/musica-nirvana.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
         </aside>
         <!-- TV -->
         

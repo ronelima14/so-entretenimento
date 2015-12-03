@@ -26,43 +26,45 @@
             <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste"></a>
         </article>
         <section>
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-4 col-md-4 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-4 col-md-4 col-lg-4"></a>
         </section>
 
         <div class="clearfix"></div>
         <!-- categories -->
         <!-- movies -->
         <section>
-            <h1>Filmes</h1>
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
+            <div class="color-margin">
+                <h1 class="text-center title-home">Filmes</h1>
+            </div>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm"></a>
         </section>
         <!-- TV -->
         <section>
-            <h1>TV</h1>
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
+            <h1 class="text-center">TV</h1>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm"></a>
         </section>
         <section>
-            <h1>Música</h1>
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
+            <h1 class="text-center">Música</h1>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm"></a>
         </section>
         <section>
-            <h1>HQ</h1>
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
+            <h1 class="text-center">HQ</h1>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm"></a>
         </section>
         <section>
-            <h1>Lazer</h1>
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-            <img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
+            <h1 class="text-center">Lazer</h1>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
+            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm"></a>
         </section>
         
     </div>
