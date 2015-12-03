@@ -7,4 +7,4 @@ Integrator Project
 
 ### Nome das páginas
 * As páginas devem conter o seguinte formato : categoria-nomedapagina
-	Ex.: musica-kurtCobain.php
+	* Ex.: musica-kurtCobain.php
