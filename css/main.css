@@ -62,26 +62,22 @@ p.news {
 	font-family: 'Lato', 'Verdana', sans-serif;
 }
 
-
-/* --- --- --- */
-
-
-#em-breve{ 
-	border-bottom-style: groove;
+.related-container {
+	border-bottom: 2px solid #000;
+	width: 95%;
+	margin-bottom: 1%;
 }
 
-.fonteb{ 
-	color: white;
+h2.news {
+	padding: 14px;
+	color: #454545;
+	font-family: 'Lato', 'Verdana', sans-serif;
+	font-size: 16px;
+	margin-bottom: 10px;
 }
 
-#criticas{
-	border-right-style: groove;
-}
+/* FOOTER GERAL */
 
-.form-contact {
-	margin-bottom: 3%;
-}
-
-.space-bottom{
-	margin-bottom: .5%;
+.footer-bottom {
+	margin-bottom: -16px !important;
 }
