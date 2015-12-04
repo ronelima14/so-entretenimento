@@ -22,47 +22,20 @@
     	?>
     <div class="container">
         <section>
-            <div class="row">
                 <h1>Quem somos</h1>
-                <img src="images/img.jpg" alt="imagem de teste" class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-                <p class="nome">Nome: Matheus</p>
-                <p class="nome">Bio: Matheus é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
-                <p class="nome">Responsabilidade: Gerente de projeto</p>
-            </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h3 class="panel-title">Matheus Martins</h3>
+                  </div>
+                  <div class="panel-body">
+                    <img src="images/musica-matheus.jpg" alt="Imagem de Matheus de Almeida Martins, gerente do projeto" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
+                    <p class=""><strong>Mini biografia:</strong></p>
+                    <p>Matheus é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
+                    <p class=""><strong>Responsabilidade:</strong></p>
+                    <p>Gerente de projeto</p>
+                  </div>
+                </div>
         </section>
-        <section>
-            <div class="row">
-                <img src="images/img.jpg" alt="imagem de teste" class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-                <p class="nome">Nome: Rone</p>
-                <p class="nome">Bio: Rone é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
-                <p class="nome">Responsabilidade: Wireframes e HQ</p>
-            </div>
-        </section>
-        <section>
-            <div class="row">
-                <img src="images/img.jpg" alt="imagem de teste" class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-                <p class="nome">Nome: Jonadab</p>
-                <p class="nome">Bio: Jonadab é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
-                <p class="nome">Responsabilidade: Filmes</p>
-            </div>
-        </section>
-        <section>
-            <div class="row">
-                <img src="images/img.jpg" alt="imagem de teste" class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-                <p class="nome">Nome: André</p>
-                <p class="nome">Bio: André é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
-                <p class="nome">Responsabilidade: Mapa do site e Lazer</p>
-            </div>
-        </section>
-        <section>
-            <div class="row">
-                <img src="images/img.jpg" alt="imagem de teste" class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
-                <p class="nome">Nome: Elton</p>
-                <p class="nome">Bio: Elton é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
-                <p class="nome">Responsabilidade: TV</p>
-            </div>
-        </section>
-        
     </div>
 <?php
     @include "includes/footer.php";
