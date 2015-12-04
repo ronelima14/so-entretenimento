@@ -25,7 +25,7 @@
                 <h1>Quem somos</h1>
                 <div class="panel panel-default">
                   <div class="panel-heading">
-                    <h3 class="panel-title">Matheus Martins</h3>
+                    <h3 class="panel-title">Matheus de Almeida Martins</h3>
                   </div>
                   <div class="panel-body">
                     <img src="images/musica-matheus.jpg" alt="Imagem de Matheus de Almeida Martins, gerente do projeto" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
@@ -33,9 +33,9 @@
                     <p>Matheus é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
                     <p class=""><strong>Responsabilidade:</strong></p>
                     <p>Gerente de projeto</p>
-                    <a href="http://github.com/matheuswd"><div>
-                    <button type="button" class="btn btn-danger"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</button>
-                    </div></a>
+                    <a href="http://github.com/matheuswd">
+                        <p class="btn btn-default"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</p>
+                    </a>
                   </div>
                 </div>
         </section>
