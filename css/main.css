@@ -96,3 +96,30 @@ img.icons {
 div.panel p {
 	padding: 0 !important;
 }
+
+div.bg-qs {
+	background-image: url('../images/bg-qs.jpg');
+}
+
+div.qs-border {
+	border-bottom: 2px solid #000;
+	width: 100%;
+	margin-bottom: 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
