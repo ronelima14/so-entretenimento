@@ -33,6 +33,9 @@
                     <p>Matheus é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
                     <p class=""><strong>Responsabilidade:</strong></p>
                     <p>Gerente de projeto</p>
+                    <a href="http://github.com/matheuswd"><div>
+                    <button type="button" class="btn btn-danger"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</button>
+                    </div></a>
                   </div>
                 </div>
         </section>
