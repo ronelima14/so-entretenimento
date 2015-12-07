@@ -46,7 +46,7 @@
                 <h3 class="panel-title">Jonadab Ferreira da Silva</h3>
               </div>
               <div class="panel-body">
-                <img src="images/jonadab.jpg" alt="Imagem de Matheus de Almeida Martins, gerente do projeto" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
+                <img src="images/jonadab.jpg" alt="Imagem de Jonadab Ferreira da Silva" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
                 <p class=""><strong>Mini biografia:</strong></p>
                 <p>Um cara que curte uma cerveja, um truco e odeia jogar na equipe do Matheus porque ele é muito chato.</p>
                 <p class=""><strong>Responsabilidade:</strong></p>
@@ -58,14 +58,29 @@
             </div>
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">Matheus de Almeida Martins</h3>
+                <h3 class="panel-title">André Rafael Franco Collareda</h3>
               </div>
               <div class="panel-body">
-                <img src="images/musica-matheus.jpg" alt="Imagem de Matheus de Almeida Martins, gerente do projeto" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
+                <img src="images/andre.jpg" alt="Imagem de André Rafael Franco Collareda" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
                 <p class=""><strong>Mini biografia:</strong></p>
-                <p>Matheus é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
+                <p>André é um puta merda, curte sinuca, truco e uma cerveja de segunda a segunda. Sábado e domingo finge que joga bola, quando na verdade ele é a bola.</p>
                 <p class=""><strong>Responsabilidade:</strong></p>
-                <p>Gerente de projeto</p>
+                <p>Lazer e mapas do site</p>
+                <a href="http://github.com/andrecollareda">
+                    <p class="btn btn-default"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</p>
+                </a>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h3 class="panel-title">Rone Peterson Ferreira Lima</h3>
+              </div>
+              <div class="panel-body">
+                <img src="images/rone.jpg" alt="Imagem de Rone Peterson Ferreira Lima" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
+                <p class=""><strong>Mini biografia:</strong></p>
+                <p>Rone é um pai de família, que curte fazer as lições de Práticas de Design.</p>
+                <p class=""><strong>Responsabilidade:</strong></p>
+                <p>HQs e Wireframes</p>
                 <a href="http://github.com/matheuswd">
                     <p class="btn btn-default"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</p>
                 </a>
@@ -73,30 +88,15 @@
             </div>
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">Matheus de Almeida Martins</h3>
+                <h3 class="panel-title">Elton Santos da Silva</h3>
               </div>
               <div class="panel-body">
-                <img src="images/musica-matheus.jpg" alt="Imagem de Matheus de Almeida Martins, gerente do projeto" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
+                <img src="images/elton.jpg" alt="Imagem de Elton Santos da Silva" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
                 <p class=""><strong>Mini biografia:</strong></p>
-                <p>Matheus é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
+                <p>Elton é jogador de bola  semi-profissional, trabalha com projeto (projetista) e entrou pra TI esperando mudar de vida, ficar menos pobre.</p>
                 <p class=""><strong>Responsabilidade:</strong></p>
-                <p>Gerente de projeto</p>
-                <a href="http://github.com/matheuswd">
-                    <p class="btn btn-default"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</p>
-                </a>
-              </div>
-            </div>
-            <div class="panel panel-default">
-              <div class="panel-heading">
-                <h3 class="panel-title">Matheus de Almeida Martins</h3>
-              </div>
-              <div class="panel-body">
-                <img src="images/musica-matheus.jpg" alt="Imagem de Matheus de Almeida Martins, gerente do projeto" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
-                <p class=""><strong>Mini biografia:</strong></p>
-                <p>Matheus é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
-                <p class=""><strong>Responsabilidade:</strong></p>
-                <p>Gerente de projeto</p>
-                <a href="http://github.com/matheuswd">
+                <p>TV e Wireframes</p>
+                <a href="http://github.com/Elton2015">
                     <p class="btn btn-default"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</p>
                 </a>
               </div>
