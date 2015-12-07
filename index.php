@@ -33,38 +33,89 @@
         <div class="clearfix"></div>
         <!-- categories -->
         <!-- movies -->
+       <section>
+            <div class="color-margin">
+                <h1 class="text-center title-home">Música</h1>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-fireflight.php"><img src="images/musica-fireflight.jpg" alt="imagem da banda Fireflight" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-lollapaloza.php"><img src="images/musica-lollapaloza.jpg" alt="imagem da Lollapalooza" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-metallica.php"><img src="images/musica-metallica.jpg" alt="imagem da banda Metallica" class="col-xs-12 col-sm12  col-md-12 col-lg-12 hidden-xs hidden-sm"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+        </section><section>
+            <div class="color-margin">
+                <h1 class="text-center title-home">Música</h1>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-fireflight.php"><img src="images/musica-fireflight.jpg" alt="imagem da banda Fireflight" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-lollapaloza.php"><img src="images/musica-lollapaloza.jpg" alt="imagem da Lollapalooza" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-metallica.php"><img src="images/musica-metallica.jpg" alt="imagem da banda Metallica" class="col-xs-12 col-sm12  col-md-12 col-lg-12 hidden-xs hidden-sm"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+        </section>
         <section>
             <div class="color-margin">
-                <h1 class="text-center title-home">Filmes</h1>
+                <h1 class="text-center title-home">Música</h1>
             </div>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm"></a>
-        </section>
-        <!-- TV -->
-        <section>
-            <h1 class="text-center">TV</h1>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm"></a>
-        </section>
-        <section>
-            <h1 class="text-center">Música</h1>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm"></a>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-fireflight.php"><img src="images/musica-fireflight.jpg" alt="imagem da banda Fireflight" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-lollapaloza.php"><img src="images/musica-lollapaloza.jpg" alt="imagem da Lollapalooza" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-metallica.php"><img src="images/musica-metallica.jpg" alt="imagem da banda Metallica" class="col-xs-12 col-sm12  col-md-12 col-lg-12 hidden-xs hidden-sm"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
         </section>
         <section>
-            <h1 class="text-center">HQ</h1>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm"></a>
+            <div class="color-margin">
+                <h1 class="text-center title-home">Música</h1>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-fireflight.php"><img src="images/musica-fireflight.jpg" alt="imagem da banda Fireflight" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-lollapaloza.php"><img src="images/musica-lollapaloza.jpg" alt="imagem da Lollapalooza" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-metallica.php"><img src="images/musica-metallica.jpg" alt="imagem da banda Metallica" class="col-xs-12 col-sm12  col-md-12 col-lg-12 hidden-xs hidden-sm"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
         </section>
         <section>
-            <h1 class="text-center">Lazer</h1>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm"></a>
+            <div class="color-margin">
+                <h1 class="text-center title-home">Música</h1>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-fireflight.php"><img src="images/musica-fireflight.jpg" alt="imagem da banda Fireflight" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-lollapaloza.php"><img src="images/musica-lollapaloza.jpg" alt="imagem da Lollapalooza" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                <a href="musica-metallica.php"><img src="images/musica-metallica.jpg" alt="imagem da banda Metallica" class="col-xs-12 col-sm12  col-md-12 col-lg-12 hidden-xs hidden-sm"></a>
+                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+            </div>
         </section>
         
     </div>
