@@ -35,7 +35,7 @@
             </div>
             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                 <a href="tv-novela.php"><div class="panel-title"><h2 >O CLONE</h2> </div></a>
-                <p > s"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore vritatis 
+                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore vritatis 
                 et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed
                  quia dolorem ipsum quia dolor sit amet, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequat
                  ur? Quis autem vel eum iure m nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</p >
