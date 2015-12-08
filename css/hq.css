@@ -1,0 +1,23 @@
+@charset="UTF-8";
+
+html, body {
+	background-image: url('../images/bg-qs.jpg');
+}
+
+
+h2.hq-tittlea{
+    color: #454545;
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+h5.hq-texto{
+	color: #454545;
+	font-size: 25px;
+	margin-top: 0px;
+}
+
+.hq-container{
+	margin: 1%;
+	height: 100px;
+}
