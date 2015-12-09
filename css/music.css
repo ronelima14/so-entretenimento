@@ -4,23 +4,15 @@
 	margin-top: -.5%;
 	font-size: 18px;
 	font-family: 'Lato', 'Verdana', sans-serif;
-	color: #FFFFFF;
+	color: #343434;
 }
 
 .music-title {
-	color: #FEFEFE;
+	color: #343434;
 }
 
 .music-container {
-	border-bottom: 2px solid #FEFEFE;
+	border-bottom: 2px solid #343434;
 	width: 95%;
 	margin-bottom: 1%;
 }
-
-html, body {
-	background-image: url('../images/musica-background.jpg');
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-

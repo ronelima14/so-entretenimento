@@ -1,9 +1,5 @@
 @charset="UTF-8";
 
-html, body {
-	background-image: url('../images/hq-bg1.jpg');
-}
-
 h2.hq-tittlea{
     color: #000000;
     font-size: 25px;

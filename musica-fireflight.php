@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
+<div class="wrapper">
     
     	<?php
     		@include "includes/header.php";
@@ -55,5 +56,6 @@ Mauris lacinia vestibulum vulputate. Nunc luctus, tellus in tristique volutpat, 
     @include "includes/footer.php";
     @include "includes/scripts.php";
 ?>
+</div>
 </body>
 </html>

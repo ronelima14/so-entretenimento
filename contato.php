@@ -21,31 +21,39 @@
     		@include "includes/header.php";
     	?>
     <div class="container">
-        <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <form role="form" class="form-contact">
-                <div class="form-group">
-                    <label for="email">E-mail</label>
-                    <input type="email" class="form-control" id="email">
-                </div>
-                <div class="form-group">
-                    <label>Nome</label>
-                    <input class="form-control">
-                </div>
-                <div class="form-group">
-                    <label>Assunto</label>
-                    <input class="form-control">
-                </div>
-                <div class="form-group">
-                    <label class="control-label" for="textarea">Mensagem</label>                    
-                    <textarea class="form-control" id="textarea" name="textarea">default text</textarea>
-                </div>
-                <div class="checkbox">
-                    <label><input type="checkbox">Receber novas notícias</label>
-                </div>
-                <button type="submit" class="btn btn-default">Enviar</button>
-            </form>
-        </article>
-        
+        <form class="form-contact">
+            <h1 class="text-center">Fale com a gente</h1>
+            <div class="form-group">
+                <label for="inputName">Nome</label>
+                <input class="form-control" id="inputName" placeholder="Ex.: João Pedro da Silva">
+                <small class="text-muted">Seu nome deve estar completo.</small>
+            </div>
+            <div class="form-group">
+                <label for="inputEmail">E-mail</label>
+                <input type="email" class="form-control" id="inputEmail" placeholder="Email">
+                <small class="text-muted">Jamais compartilharemos seu e-mail com terceiros.</small>
+            </div>
+            <fieldset class="form-group">
+                <label for="exampleSelect1">Assunto</label>
+                <select class="form-control" id="select">
+                  <option>-- Selecione um assunto --</option>
+                  <option>Filmes</option>
+                  <option>TV</option>
+                  <option>Música</option>
+                  <option>Lazer</option>
+                  <option>HQ</option>
+                  <option>Outro</option>
+                </select>
+            </fieldset>
+            <fieldset class="form-group">
+                <label for="exampleTextarea">Mensagem</label>
+                <textarea class="form-control" id="textareaMessage" rows="3"></textarea>
+            </fieldset>
+            <div class="checkbox">
+                <label><input type="checkbox"> Assinar newsletter</label>
+            </div>
+            <button type="submit" class="btn btn-default">Enviar</button>
+        </form>
     </div>
 <?php
     @include "includes/footer.php";

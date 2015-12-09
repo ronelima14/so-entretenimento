@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-    
+<div class="wrapper">    
     	<?php
     		@include "includes/header.php";
     	?>
@@ -59,6 +59,7 @@
     </div>
 <?php
     @include "includes/footer.php";
+    @include "includes/scripts.php";
 ?>
 </body>
 </html>

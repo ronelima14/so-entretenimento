@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="css/hq.css">
 </head>
 <body>
-    
+<div class="wrapper">    
     	<?php
     		@include "includes/header.php";
     	?>
@@ -27,28 +27,28 @@
             
         <section>
             <h5 class="text-center hq-texto">DC X MARVEL</h5>
-            <a href="hq-gibi1.php"><img src="images/hq-capa3.jpg"  alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
-            <a href="hq-gibi2.php"><img src="images/hq-capa2.jpg"  alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
-            <a href="hq-gibi3.php"><img src="images/hq-capa1.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
-            <a href="hq-gibi4.php"><img src="images/hq-capa4.jpg"  alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi1.php"><img src="images/hq-capa3.jpg"  alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi2.php"><img src="images/hq-capa2.jpg"  alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi3.php"><img src="images/hq-capa1.jpg" alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi4.php"><img src="images/hq-capa4.jpg"  alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
         </section>
       
             
         <section>
             <h5 class="text-center hq-texto">VARIADOS</h5>
-            <a href="hq-gibi5.php"><img src="images/hq-capa8.jpg"  alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
-            <a href="hq-gibi6.php"><img src="images/hq-capa6.jpg"  alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
-            <a href="hq-gibi7.php"><img src="images/hq-capa7.jpg"  alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
-            <a href="hq-gibi8.php"><img src="images/hq-capa5.jpg"  alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi5.php"><img src="images/hq-capa8.jpg"  alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi6.php"><img src="images/hq-capa6.jpg"  alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi7.php"><img src="images/hq-capa7.jpg"  alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi8.php"><img src="images/hq-capa5.jpg"  alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
         </section>
         
            
         <section>
             <h5 class="text-center hq-texto">MANGÁS</h5>
-            <a href="hq-gibi9.php"><img src="images/hq-capa12.jpg"  alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
-            <a href="hq-gibi10.php"><img src="images/hq-capa10.jpg"  alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
-            <a href="hq-gibi11.php"><img src="images/hq-capa11.jpg"  alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
-            <a href="hq-gibi12.php"><img src="images/hq-capa9.jpg"  alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi9.php"><img src="images/hq-capa12.jpg"  alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi10.php"><img src="images/hq-capa10.jpg"  alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi11.php"><img src="images/hq-capa11.jpg"  alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
+            <a href="hq-gibi12.php"><img src="images/hq-capa9.jpg"  alt="imagem de teste" class="col-xs-6 col-sm-6 col-md-3 col-lg-3"></a>
         </section>
         
         </article>
@@ -68,10 +68,12 @@
                  </section>
         </aside>
 </div>
+<div class="space"></div>
 <?php
     @include "includes/footer.php";
     @include "includes/scripts.php";
 ?>
+</div>
 
 </body>
 </html>

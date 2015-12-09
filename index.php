@@ -16,18 +16,23 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-    
+<div class="wrapper">    
     	<?php
     		@include "includes/header.php";
     	?>
     <div class="container">
         <!-- main -->
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste"></a>
+            <a href="musica-fireflight.php"><img src="images/musica-fireflight.jpg" alt="imagem da banda Fireflight" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h2 class="news">Fireflight - banda de rock gospel - começa a fazer sucesso mundialmente</h2>
+            </a>
         </article>
         <section>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-4 col-md-4 col-lg-4"></a>
-            <a href="padrao-noticia.php"><img src="images/img.jpg" alt="imagem de teste" class="col-xs-12 col-sm-4 col-md-4 col-lg-4"></a>
+            <a href="tv-series.php">
+                <img src="images/tv-serie-heroes.jpg" alt="imagem da série Heroes" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <h2 class="news news-home">Kurt Cobain e Nirvana aparecem em fotos do primeiro show da banda</h2>
+            </a>
+            <a href="lazer-noticia-1.php"><img src="images/a-6.jpg" alt="imagem de teatro" class="col-xs-12 col-sm-4 col-md-4 col-lg-4"></a>
         </section>
 
         <div class="clearfix"></div>
@@ -122,5 +127,6 @@
 <?php
     @include "includes/footer.php";
 ?>
+</div>
 </body>
 </html>
