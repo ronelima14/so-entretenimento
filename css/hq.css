@@ -1,18 +1,17 @@
 @charset="UTF-8";
 
 html, body {
-	background-image: url('../images/bg-qs.jpg');
+	background-image: url('../images/hq-bg1.jpg');
 }
 
-
 h2.hq-tittlea{
-    color: #454545;
+    color: #000000;
     font-size: 25px;
     margin-top: 0px;
 }
 
 h5.hq-texto{
-	color: #454545;
+	color: #000000;
 	font-size: 25px;
 	margin-top: 0px;
 }

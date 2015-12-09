@@ -26,11 +26,11 @@
         <div class="row"> 
         <article>
             <h2>Para Conhecer</h2>
-            <img src="images/a-1.jpg" class="img-responsive  col-md-4" alt="restaurante em São Paulo que propõe uma programação diferente. Em cima do telhado, luz de velas." ><p class="col-md-2"> Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI.<a href="lazer-noticia-1.php">Clique Aqui!</a>  </p> 
+            <img src="images/a-1.jpg" class="img-responsive  col-md-4" alt="restaurante em São Paulo que propõe uma programação diferente. Em cima do telhado, luz de velas." ><p class="col-md-2"> Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI,  <a href="lazer-noticia-1.php">Clique Aqui!</a>  </p> 
             
             
             
-            <img src="images/a-2.jpg" class="img-responsive col-md-4" alt="Foto do Cine Olympia. Filmes de época e atuais." ><p class="col-md-2"> Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI.<a href="lazer-noticia-4.php">Clique Aqui!</a></p> 
+            <img src="images/a-2.jpg" class="img-responsive col-md-4" alt="Foto do Cine Olympia. Filmes de época e atuais." ><p class="col-md-2"> Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI. <a href="lazer-noticia-4.php">Clique Aqui!</a>   </p> 
             
         </article>
         </div>
