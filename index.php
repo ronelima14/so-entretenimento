@@ -24,15 +24,18 @@
         <!-- main -->
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
             <a href="musica-fireflight.php"><img src="images/musica-fireflight.jpg" alt="imagem da banda Fireflight" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                <h2 class="news">Fireflight - banda de rock gospel - começa a fazer sucesso mundialmente</h2>
+                <h2 class="news text-center">Fireflight - banda de rock gospel - começa a fazer sucesso mundialmente</h2>
             </a>
         </article>
         <section>
             <a href="tv-series.php">
                 <img src="images/tv-serie-heroes.jpg" alt="imagem da série Heroes" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                <h2 class="news news-home">Kurt Cobain e Nirvana aparecem em fotos do primeiro show da banda</h2>
+                <h2 class="news text-center">Heroes</h2>
             </a>
-            <a href="lazer-noticia-1.php"><img src="images/a-6.jpg" alt="imagem de teatro" class="col-xs-12 col-sm-4 col-md-4 col-lg-4"></a>
+            <a href="filmes-bilheterias.php" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <img src="images/pessoas-cinema.jpg" alt="imagem de pessoas felizes no cinema" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h2 class="news text-center">Saiba quais filmes estão sendo os mais vistos no Brasil e EUA</h2>
+            </a>
         </section>
 
         <div class="clearfix"></div>
@@ -40,21 +43,28 @@
         <!-- movies -->
        <section>
             <div class="color-margin">
-                <h1 class="text-center title-home">Música</h1>
+                <h1 class="text-center title-home">Filmes</h1>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a href="musica-fireflight.php"><img src="images/musica-fireflight.jpg" alt="imagem da banda Fireflight" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
-                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+                <a href="filmes-em-cartaz.php">
+                    <img src="images/jogos-vorazes-poster4.jpg" alt="imagem dos jogos vorazes" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <h2 class="news">Jogos Vorazes: A Esperança-Parte Final</h2>
+                </a>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a href="musica-lollapaloza.php"><img src="images/musica-lollapaloza.jpg" alt="imagem da Lollapalooza" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
-                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+                <a href="filmes-em-cartaz.php">
+                    <img src="images/jogos-vorazes-poster4.jpg" alt="imagem dos jogos vorazes" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <h2 class="news">Jogos Vorazes: A Esperança-Parte Final</h2>
+                </a>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <a href="musica-metallica.php"><img src="images/musica-metallica.jpg" alt="imagem da banda Metallica" class="col-xs-12 col-sm12  col-md-12 col-lg-12 hidden-xs hidden-sm"></a>
-                <h2 class="news">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
+                <a href="filmes-em-cartaz.php">
+                    <img src="images/jogos-vorazes-poster4.jpg" alt="imagem dos jogos vorazes" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <h2 class="news">Jogos Vorazes: A Esperança-Parte Final</h2>
+                </a>
             </div>
-        </section><section>
+        </section>
+        <section>
             <div class="color-margin">
                 <h1 class="text-center title-home">Música</h1>
             </div>
