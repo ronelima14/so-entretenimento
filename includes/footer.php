@@ -1,6 +1,6 @@
 <footer class="footer-basic-centered">
 
-			<p class="footer-company-motto">The company motto.</p>
+			<p class="footer-company-motto">Só ria</p>
 
 			<p class="footer-links">
 				<a href="index.php">Home</a>
@@ -22,7 +22,7 @@
 				<a href="contato.php">Contato</a>
 			</p>
 
-			<p class="footer-company-name">Company Name &copy; 2015</p>
+			<p class="footer-company-name">Só Entretenimento &copy; 2015</p>
 			<?php @include "scripts.php"; ?>
 
 		</footer>
