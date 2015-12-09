@@ -76,6 +76,9 @@
                     <button class="btn btn-default" type="submit">Veja Mais</button>
                  </section>
         </aside>
+        <div  class="container hq-container">
+        <section class="col-xs-10 col-sm-6 col-md-8 col-lg-12"><img src="images/hq-publicidade1.jpg" alt="" class="col-xs-10 col-sm-12 col-md-12 col-lg-12"></section>
+</div>
 </div>
 <?php
     @include "includes/footer.php";
