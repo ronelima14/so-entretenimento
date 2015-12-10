@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Nirvana</title>
+    <title>Sugestões</title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/andre.css" rel="stylesheet">
@@ -24,8 +24,8 @@
     <div class="container">
         <!-- main -->
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-        	<h1 class="title-news text-justify">Um Lugar Para dar Risada.</h1>
-            <h3 class="small">Palmas, Risadas e Sorrisos</h3>
+        	<h1 class="title-news text-justify">Sugestões</h1>
+            
             <img src="images/a-7.jpg" alt="três artistas em uma encenação com cara de espanto ao ouvirem um segredo." class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive"> 
             <p class="news">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin orci mi, hendrerit at tellus eget, lacinia vehicula erat. Integer condimentum et tellus at auctor. Nam erat diam, commodo eu urna eu, accumsan scelerisque sem. Aenean eu orci nec mi porta vehicula nec ac velit. Suspendisse bibendum magna et elit varius, vel maximus quam viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla vulputate mattis metus, vel ultrices enim consequat ac. Vivamus id tortor arcu. Cras vel viverra ligula, sit amet pretium justo. Integer pulvinar eu eros et pretium. Suspendisse non felis sit amet nulla facilisis ullamcorper in sit amet nisi. Maecenas sapien ante, euismod in lacus consectetur, vehicula tincidunt erat. Praesent interdum dignissim massa porta vestibulum. Ut blandit arcu ut ex aliquam pharetra.
 
@@ -35,14 +35,14 @@ Mauris lacinia vestibulum vulputate. Nunc luctus, tellus in tristique volutpat, 
         </article>
         <aside class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <div class="container related-container">
-                <h2 class="text-center">Relacionados</h2>
+                <h2 class="text-center">Saiba Mais.</h2>
             </div>
-            <a href="lazer-noticia-1.php"> <img src="images/a-6.jpg" "banco hsbc de Curitiba, famoso por cantatas natalinas. " class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> </a>
-            <h2 class="news">Achei que escrever algo aqui seria legal. Como vai você?</h2>
+            <a href="lazer-noticia-1.php"> <img src="images/a-6.jpg." "banco hsbc de Curitiba, famoso por cantatas natalinas. " class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> </a>
+            <h2 class="news">Natal em Curitiba</h2>
             <a href="lazer-noticia-3.php"><img src="images/a-8.jpg" alt="imagem do Masp em São Paulo. Prédio suspenso por quatro colunas." class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
-            <h2 class="news">Achei que escrever algo aqui seria legal. Como vai você?</h2>
+            <h2 class="news">Ver, você já viu.Conhece?</h2>
             <a href="lazer-noticia-4.php"><img src="images/a-9.jpg" alt="Casal se abraça em restaurante, clima aconchegante à luz de velas." class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> </a>
-            <h2 class="news">Achei que escrever algo aqui seria legal. Como vai você?</h2>
+            <h2 class="news">Você é romantico?</h2>
         </aside>
         <!-- TV -->
         

@@ -16,15 +16,11 @@
     	?>
     <div class="container">
         
-        <article class="bilheterias">
+        <article class="bilheterias col-xs-12 col-sm-8 col-md-8 col-lg-8">
         	<h1 class="title-news text-justify">Saiba quais filmes estão sendo os mais vistos no Brasil e EUA</h1>
-            <div class="row">
-            <section >
-            <img src="images/pessoas-cinema.jpg" alt="pessoas sorrindo no cinema" class="col-xs-12 col-sm-12 col-md-8 col-lg-8 responsive">
-            </section>
-            </div>
+            
             <section class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                <h1><p class="small">Top 10 Bilheterias no Brasil</p></h1><!--<h4>Top 10 Bilheterias nos EUA</h4>-->
+                <h1><p  class="small">Top 10 Bilheterias no Brasil</p></h1>
                 <div class="row">
                 <div class="col-md-1 col-sm-12 col-xs-12">
                 <img src="images/1.jpg" alt="">
@@ -89,7 +85,7 @@
                 <img  src="images/no-coracao-do-mar-60x80.jpg" alt="" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">No Coração do Mar</p></b>
+                    <p><b>No Coração do Mar</b></p>
                     <p>WARNER BROS</p>
                     <a href="https://www.youtube.com/watch?v=E_hwdx5k5_k" target="_blank">Veja o Trailer</a>
                 </div>
@@ -103,7 +99,7 @@
                 <img  src="images/bem-casados-60x80.jpg" alt="" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">Bem Casados</p></b>
+                    <b><p>Bem Casados</p></b>
                     <p>IMAGEM FILMES</p>
                     <a href="https://www.youtube.com/watch?v=0wTo79zo11k" target="_blank">Veja o Trailer</a>
                 </div>
@@ -117,7 +113,7 @@
                 <img  src="images/victor-frankenstein-60x80.jpg" alt="Foto do Filme Victor Frankenstein" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">Victor Frankenstein</p></b>
+                    <p><b>Victor Frankenstein</b></p>
                     <p>CENTURY FOX</p>
                     <a href="https://www.youtube.com/watch?v=FCX4UQ19PTs" target="_blank">Veja o Trailer</a>
                 </div>
@@ -131,7 +127,7 @@
                 <img  src="images/o-ultimo-cacador-de-bruxas-60x80.jpg" alt="Foto do filme O Último Caçador de Bruxas" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">O Último Caçador de Bruxas</p></b>
+                    <p><b>O Último Caçador de Bruxas</b></p>
                     <p>UNIVERSAL</p>
                     <a href="https://www.youtube.com/watch?v=ny_RQF0siV4" target="_blank">Veja o Trailer</a>
                 </div>
@@ -145,7 +141,7 @@
                 <img  src="images/quarto-de-guerra-60x80.jpg" alt="Foto do filme Quarto de Guerra" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">Quarto de Guerra</p></b>
+                    <p><b>Quarto de Guerra</b></p>
                     <p>CANZION FILMES</p>
                     <a href="https://www.youtube.com/watch?v=AIgN1VHP844" target="_blank">Veja o Trailer</a>
                 </div>
@@ -159,7 +155,7 @@
                 <img  src="images/o-presente-60x80.jpg" alt="Foto do filme O Presente" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">O Presente</p></b>
+                    <p><b>O Presente</b></p>
                     <p>PLAY ARTE</p>
                     <a href="https://www.youtube.com/watch?v=TqI8lpdK4Cw" target="_blank">Veja o Trailer</a>
                 </div>
@@ -178,7 +174,7 @@
                 <img  src="images/no-coracao-do-mar-60x80.jpg" alt="" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">No Coração do Mar</p></b>
+                    <p><b>No Coração do Mar</b></p>
                     <p>WARNER BROS</p>
                     <a href="https://www.youtube.com/watch?v=E_hwdx5k5_k" target="_blank">Veja o Trailer</a>
                 </div>
@@ -234,7 +230,7 @@
                 <img  src="images/o-ultimo-cacador-de-bruxas-60x80.jpg" alt="Foto do filme O Último Caçador de Bruxas" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">O Último Caçador de Bruxas</p></b>
+                    <p><b>O Último Caçador de Bruxas</b></p>
                     <p>UNIVERSAL</p>
                     <a href="https://www.youtube.com/watch?v=ny_RQF0siV4" target="_blank">Veja o Trailer</a>
                 </div>
@@ -248,7 +244,7 @@
                 <img  src="images/no-coracao-do-mar-60x80.jpg" alt="" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">No Coração do Mar</p></b>
+                    <p><b>No Coração do Mar</b></p>
                     <p>WARNER BROS</p>
                     <a href="https://www.youtube.com/watch?v=E_hwdx5k5_k" target="_blank">Veja o Trailer</a>
                 </div>
@@ -262,7 +258,7 @@
                 <img  src="images/quarto-de-guerra-60x80.jpg" alt="Foto do filme Quarto de Guerra" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">Quarto de Guerra</p></b>
+                    <p><b>Quarto de Guerra</b></p>
                     <p>CANZION FILMES</p>
                     <a href="https://www.youtube.com/watch?v=AIgN1VHP844" target="_blank">Veja o Trailer</a>
                 </div>
@@ -276,7 +272,7 @@
                 <img  src="images/o-presente-60x80.jpg" alt="Foto do filme O Presente" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">O Presente</p></b>
+                    <p><b>O Presente</b></p>
                     <p>PLAY ARTE</p>
                     <a href="https://www.youtube.com/watch?v=TqI8lpdK4Cw" target="_blank">Veja o Trailer</a>
                 </div>
@@ -290,7 +286,7 @@
                 <img  src="images/victor-frankenstein-60x80.jpg" alt="Foto do Filme Victor Frankenstein" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">Victor Frankenstein</p></b>
+                    <p><b>Victor Frankenstein</b></p>
                     <p>CENTURY FOX</p>
                     <a href="https://www.youtube.com/watch?v=FCX4UQ19PTs" target="_blank">Veja o Trailer</a>
                 </div>
@@ -304,7 +300,7 @@
                 <img  src="images/o-natal-dos-coopers-60x80-min.jpg" alt="Foto do O Natal dos Coopers" >    
                 </div>      
                 <div class="col-md-9 col-sm-8" >
-                    <b><p class="negrito">O Natal dos Coopers</p></b>
+                    <p><b>O Natal dos Coopers</b></p>
                     <p>PARIS FILMES</p>
                     <a href="https://www.youtube.com/watch?v=4yhRikngPXQ" target="_blank">Veja o Trailer</a>
                 </div>
@@ -320,8 +316,8 @@
             <div class="container related-container">
                 <h2 class="text-center">Relacionados</h2>
             </div>
-            <a href="em-breve.php"><img src="images/tris-convergente.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
-            <a href="em-breve.php"><h2 class="news">Assista ao teaser de Convergente da série Divergente</h2></a>
+            <a href="filme-em-breve.php"><img src="images/tris-convergente.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+            <a href="filmes-em-breve.php"><h2 class="news">Assista ao teaser de Convergente da série Divergente</h2></a>
             <a href="filmes-bilheterias.php"> <img src="images/ponte-dos-espioes-grde.jpg" alt="poster do filme Ponte dos Espiões" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
             <a href="filmes-bilheterias.php"><h2 class="news">Crítica: Ponte dos Espiões surpreende pelo suspense!</h2></a>
             

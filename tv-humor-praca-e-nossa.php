@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>TV-HUMOR</title>
+    <title>A PRAÇA É NOSSA TV-HUMOR</title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -24,27 +24,11 @@
     <div class="container">
         <!-- main -->
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-        	<h1>STAND UP</h1>
-            <img src="images/tv-humor-stand-up.jpg" alt="imagem de teste" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        	<div class="container related-container">
+            <h1 class="text-center tv-title" >HUMOR</h1>
+            </div>
             
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
-            	impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
-            	Fuga praesentium ut a amet.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
-                impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
-                Fuga praesentium ut a amet.</p>
-            <h3>SHOW DE STAND UP </h3>
-            
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
-            	impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
-            	Fuga praesentium ut a amet.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
-            	impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
-            	Fuga praesentium ut a amet.Fuga praesentium ut a amet.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
-                impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
-                Fuga praesentium ut a amet</p>
-            
-            <h1>A PRAÇA É NOSSA</h1>
+            <h2>A PRAÇA É NOSSA</h2>
             <img src="images/tv-humor-a-praça-e-nossa.jpg" alt="imagem do programa a praça é nossa" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
             
             <p>A Praça É Nossa  surgiu com Manoel de Nóbrega (1913-1976). De férias, em um hotel em Buenos Aires, na Argentina, ele vislumbrou esse sucesso, que há duas décadas cativa o telespectador brasileiro.
@@ -54,19 +38,21 @@
 A estreia de A Praça É Nossa no SBT aconteceu no dia 7 de maio de 1987. Anteriormente, de 1957 a 1976, a atração, sob o comando de Manoel de Nóbrega, era chamada "A Praça da Alegria" e exibida na extinta TV Paulista (que depois viria a ser a TV Globo). Em seguida, a atração passou pela Record e TV Rio até sair do ar nos anos 70.</p>
             Ao conquistar todas as faixas etárias e classes sociais, A Praça É Nossa sempre se destacou pela diversificação em seu humor. Nestes anos foram produzidos mais de mil programas inéditos. Sem contar que já desfilaram pelo banco da Praça mais de 120 artistas, entre humoristas e comediantes, que protagonizaram o respeitável número de 250 personagens.
             <p><small>fonte:<a href=http://www.sbt.com.br/apracaenossa/programa/>http://www.sbt.com.br/apracaenossa/programa/</a></small></p>
-    
+        <a href="tv-humor-stand-up.php"><h2> Confira Detalhes do Novo Humor "Stand Up":</h2></a>
         </article>
         <aside class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <div class="container related-container">
                 <h2 class="text-center">Relacionados</h2>
             </div>
-            <a href="tv-novela.php"><img src="images/tv-novela-o-clone.jpg" alt="imagem de teste" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
-             <h4 class="text-center tv-title">NOVELA </h4></a>
-            <a href="tv-series.php"><img src="images/tv-serie-lista-negra.jpg" alt="imagem de teste" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <h4 class="text-center tv-title">SERIES</h4></a>
-           
-             <a href="tv-historia.php"><img src="images/tv-historia-tv-antiga.png" alt="imagem de teste" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <h4 class="text-center tv-title">HISTORIA DA TV</h4></a>
+            <a href="tv-novela-o-clone.php" class= "tv-title">
+                <img src="images/tv-novela-o-clone.jpg" alt="imagem de teste" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h2 class="text-center news  houver">NOVELA </h2></a>
+            <a href="tv-series-lista-negra.php" class= "tv-title">
+                <img src="images/tv-serie-lista-negra.jpg" alt="imagem de teste" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h2 class="text-center news houver">SERIES</h2></a>           
+            <a href="tv-historia.php" class= "tv-title">
+                <img src="images/tv-historia-tv-antiga.png" alt="imagem de teste" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h2 class="text-center news houver">HISTORIA DA TV</h2></a>
            
         </aside>
         <!-- TV -->

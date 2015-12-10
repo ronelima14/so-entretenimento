@@ -17,7 +17,7 @@
     <div class="container">
         <!-- main -->
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-        	<h1 class="title-news text-justify">Veja os principais lançamentos em blu-Ray da semana<p class="small">Comédias famílias</p></h1>
+        	<h1 class="title-news text-justify">Veja os principais lançamentos em blu-Ray da semana</h1>
             <img src="images/ferias-frustradas.jpg" alt="imagem de capa do Filme Férias Frustadas" class="col-xs-12 col-sm-12 col-md-6 col-lg-6 img-responsive">
             <img src="images/divertida-mente.jpg" alt="imagem de capa do Filme Divertidamente" class="col-xs-12 col-sm-12 col-md-6 col-lg-6 img-responsive">
             <p class="news">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin orci mi, hendrerit at tellus eget, lacinia vehicula erat. Integer condimentum et tellus at auctor. Nam erat diam, commodo eu urna eu, accumsan scelerisque sem. Aenean eu orci nec mi porta vehicula nec ac velit. Suspendisse bibendum magna et elit varius, vel maximus quam viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla vulputate mattis metus, vel ultrices enim consequat ac. Vivamus id tortor arcu. Cras vel viverra ligula, sit amet pretium justo. Integer pulvinar eu eros et pretium. Suspendisse non felis sit amet nulla facilisis ullamcorper in sit amet nisi. Maecenas sapien ante, euismod in lacus consectetur, vehicula tincidunt erat. Praesent interdum dignissim massa porta vestibulum. Ut blandit arcu ut ex aliquam pharetra.

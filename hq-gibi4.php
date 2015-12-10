@@ -23,7 +23,9 @@
     <div class="container">
         <!-- main -->
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <h1 class="title-news text-justify">Lendas, mitos e muito mais! <p class="small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis minus officiis adipisci possimus inventore quaerat eius molestiae in aperiam. Tempora vero vel officiis, quis illo itaque omnis consectetur, voluptatibus repudiandae.</p></h1>
+            <h1 class="title-news text-justify">Lendas, mitos e muito mais!
+           Perspiciatis minus officiis
+              adipisci possimus inventore quaerat eius molestiae in aperiam. Tempora vero vel officiis, quis illo itaque omnis consectetur, voluptatibus repudiandae.</h1>
             <img src="images/hq-noticia4.jpg" alt="imagem da revista lendas do universo" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive">
             <p class="news">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis minus officiis adipisci
@@ -56,15 +58,18 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis minus off
             <a href="hq-gibi2.php">
             <img src="images/hq-capa2.jpg" alt="imagem da revista do super homem" class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <p class="news">Lorem ipsum dolor sit amet, cita suscipit unde, officia ullam. atinuim ahsde agst aauens najjshdgt ajiyinuim</p>
+           	</a>
             </section>
             <section class="text-center">
             <a href="hq-gibi1.php">
             <img src="images/hq-capa3.jpg" alt="imagem da revista a era do apocalipse" class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <p class="news">Lorem ipsum dolor sit amet, cita suscipit unde, officia ullam. atinuim ahsde agst aauens najjshdgt ajiyinuim</p>
+            </a>
             </section>
             <section class="text-center">
             <a href="hq-gibi4.php">
             <img src="images/hq-capa1.jpg" alt="imagem da revista homem aranha" class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+            </a>
             <p class="news">Lorem ipsum dolor sit amet, cita suscipit unde, officia ullam. atinuim ahsde agst aauens najjshdgt ajiyinuim</p>
             </section>
             </div>

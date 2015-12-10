@@ -55,7 +55,7 @@
 
         <aside class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
             <h2 class="text-center hq-tittlea">DESTAQUE DO DIA!</h2>
-                 <img src="images/hq-destaque.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
+                 <img src="images/hq-destaque.jpg" alt="imagem de teste" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                  <section class="col-xs-12 col-sm-12 col-md-4 col-lg-12">
                    <h3 class="hq-tittleb">Guerra Civil</h3>
                    <h4 class="hq-tittlec">Moore, Stuart</h4>
@@ -64,7 +64,7 @@
                    Homem de Ferro e Capitão América: dois membros essenciais para os Vingadores, 
                    a maior equipe de super-heróis do mundo. Quando uma trágica batalha deixa um buraco na cidade de Stamford, 
                    atando...</p>
-                   <a href="hq-gibi13.php"><button class="btn btn-default" type="submit">Veja Mais</button></a>
+                     <a href="hq-gibi13.php"><p class="btn btn-primary pull-right fonteb space-bottom">Veja Mais!</p>></a>
                  </section>
         </aside>
 </div>

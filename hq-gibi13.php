@@ -23,7 +23,7 @@
     <div class="container">
         <!-- main -->
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            <h1 class="title-news text-justify">O mistério continua na nova edição de Bleach!<p class="small">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis minus officiis adipisci possimus inventore quaerat eius molestiae in aperiam. Tempora vero vel officiis, quis illo itaque omnis consectetur, voluptatibus repudiandae.</p></h1>
+            <h1 class="title-news text-justify">O mistério continua na nova edição de Bleach!</h1>
             <img src="images/hq-noticia13.jpg" alt="imagem da revista Guerra Civi" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 img-responsive">
             <p class="news">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis minus officiis adipisci
@@ -56,16 +56,19 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis minus off
             <a href="hq-gibi3.php">
             <img src="images/hq-capa1.jpg" alt="imagem da revista Bleach" class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <p class="news">Lorem ipsum dolor sit amet, cita suscipit unde, officia ullam. atinuim ahsde agst aauens najjshdgt ajiyinuim</p>
+                </a>
             </section>
             <section class="text-center">
             <a href="hq-gibi2.php">
             <img src="images/hq-capa2.jpg" alt="imagem da revista Naruto" class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <p class="news">Lorem ipsum dolor sit amet, cita suscipit unde, officia ullam. atinuim ahsde agst aauens najjshdgt ajiyinuim</p>
+                </a>
             </section>
             <section class="text-center">
             <a href="hq-gibi4.php">
             <img src="images/hq-capa4.jpg" alt="imagem da revista Dragon Ball" class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <p class="news">Lorem ipsum dolor sit amet, cita suscipit unde, officia ullam. atinuim ahsde agst aauens najjshdgt ajiyinuim</p>
+                </a>
             </section>
             </div>
         </aside>

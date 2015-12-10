@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
+<div class="wrapper">    
     
     	<?php
     		@include "includes/header.php";
@@ -42,5 +43,6 @@
 <?php
     @include "includes/footer.php";
 ?>
+</div>
 </body>
 </html>

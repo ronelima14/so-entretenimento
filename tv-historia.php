@@ -24,20 +24,22 @@
     <div class="container">
         <!-- main -->
         <article class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-        	<h1>HISTORIA DA TV</h1>
+            <div class="container related-container">            
+        	   <h1>HISTORIA DA TV</h1>
+            </div>
             <img src="images/tv-historia-tv-antiga.png" alt="imagem de uma das primeiras tvs com imagem preto e branco" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
             
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
             	impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
             	Fuga praesentium ut a amet.</p>
-            <h3>Trama</h3>
+            <h3>Quando surgiu:</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
             	impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
             	Fuga praesentium ut a amet.</p>
-            <h3>Sucesso</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
+            <h3>Acessibilidade:</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
             	impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
             	Fuga praesentium ut a amet.</p>
-            <h3>Curiosidades</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
+            <h3>Curiosidades:</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
             	impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
             	Fuga praesentium ut a amet.</p>
                 <img src="images/tv-historia-tv-nova.png" alt="imagem de uma tv grande moderna de tela curva resolução 4k" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -46,18 +48,21 @@
             <div class="container related-container">
                 <h2 class="text-center">Relacionados</h2>
             </div>
-            <a href="tv-novela.php"><img src="images/tv-novela-o-clone.jpg" alt="imagem de teste" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <p> <h4 class="text-center tv-title">NOVELA </h4></p></a>
-            <a href="tv-series.php"><img src="images/tv-serie-lista-negra.jpg" alt="imagem de teste" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <p ><h4 class="text-center tv-title">SERIES</h4></p></a>
+            <a href="tv-novela-o-clone.php"  class="tv-title">
+                <img src="images/tv-novela-o-clone.jpg" alt="imagem da Novela o Clone" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h2 class="text-center news houver">NOVELA </h2></a>
+            <a href="tv-series-lista-negra.php" class= "tv-title">
+                <img src="images/tv-serie-lista-negra.jpg" alt="imagem da serie Americana  Lista Negra" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h2 class="text-center news houver">SERIES</h2></a>
             
-            <a href="tv-humor.php"><img src="images/tv-humor-a-praça-e-nossa.jpg" alt="imagem de teste" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            	<p><h4 class="text-center tv-title">HUMOR</h4></p></a>
+            <a href="tv-humor-praca-e-nossa.php" class= "tv-title">
+                <img src="images/tv-humor-a-praça-e-nossa.jpg" alt="imagem do programa de humor a praça é nossa" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            	<h2 class="text-center news houver">HUMOR</h2></a>
             <a href="http://www.skyassine.tv.br/?gclid=CIzU5-rpyckCFRAFkQodMAcBwQ">
             	<img src="images/tv-propaganda-sky.jpg" alt="imagem propaganda de tv por assinatura sky" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
             </a>
-             <iframe  src="https://www.youtube.com/embed/EM9fE6dxpmw" frameborder="0" allowfullscreen></iframe> 
-             <p><a href="https://www.youtube.com/embed/EM9fE6dxpmw">Assista no youtube </a></p>
+            <iframe  src="https://www.youtube.com/embed/EM9fE6dxpmw"  allowfullscreen></iframe> 
+                <p><a href="https://www.youtube.com/embed/EM9fE6dxpmw">Assista no youtube </a></p>
             
         </aside>
         <!-- TV -->

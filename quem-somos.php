@@ -33,7 +33,7 @@
               <div class="panel-body">
                 <img src="images/musica-matheus.jpg" alt="Imagem de Matheus de Almeida Martins, gerente do projeto" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
                 <p class=""><strong>Mini biografia:</strong></p>
-                <p>Matheus é um cara muito tranquilo que gosta muito das aulas de PPSI na faculdade.</p>
+                <p>Matheus é um cara muito tranquilo que não sabe muito bem o que quer da vida.</p>
                 <p class=""><strong>Responsabilidade:</strong></p>
                 <p>Gerente de projeto</p>
                 <a href="https://github.com/matheuswd">
@@ -63,7 +63,7 @@
               <div class="panel-body">
                 <img src="images/andre.jpg" alt="Imagem de André Rafael Franco Collareda" class="col-xs-6 col-sm-4 col-md-3 col-lg-3 img-responsive img-circle personal">
                 <p class=""><strong>Mini biografia:</strong></p>
-                <p>André é um puta merda, curte sinuca, truco e uma cerveja de segunda a segunda. Sábado e domingo finge que joga bola, quando na verdade ele é a bola.</p>
+                <p>Um cara que gosta de ler, assistir filmes e séries, jogar, estudar, conhecer pessoas, escutar músicas e pensar (claro, não necessariamente nessa ordem).</p>
                 <p class=""><strong>Responsabilidade:</strong></p>
                 <p>Lazer e mapas do site</p>
                 <a href="http://github.com/andrecollareda">
