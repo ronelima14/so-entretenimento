@@ -54,7 +54,7 @@
                 <a href="filmes-bilheterias.php"><img src="images/pessoas-cinema.jpg" alt="imagem de pessoas no cinema comendo pipoca" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
                 <h2 class="news text-center">Bilheterias</h2>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
                 <a href="filmes-em-cartaz.php"><img src="images/jogos-vorazes-poster4.jpg" alt="imagem do filme jogos vorazes" class="col-xs-12 col-sm12  col-md-12 col-lg-12 hidden-xs hidden-sm"></a>
                 <h2 class="news text-center">Jogos Vorazes</h2>
             </div>
@@ -73,7 +73,7 @@
                 <a href="tv-series-lista-negra.php"><img src="images/tv-serie-lista-negra.jpg" alt="imagem da Série Lista Negra" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
                 <h2 class="news text-center">Seriado De Maior Sucesso "Lista Negra"</h2>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
                 <a href="tv-humor-stand-up.php"><img src="images/tv-humor-stand-up.jpg" alt="imagem de humor stand up" class="col-xs-12 col-sm12  col-md-12 col-lg-12 hidden-xs hidden-sm"></a>
                 <h2 class="news text-center">Novo Humor "Stand Up"</h2>
             </div>
@@ -92,7 +92,7 @@
                 <a href="musica-lollapaloza.php"><img src="images/musica-lollapaloza.jpg" alt="imagem da Lollapalooza" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
                 <h2 class="news text-center">Sem saber da morte de Kurt, Nirvana cancelou show no Lolla há 20 anos</h2>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
                 <a href="musica-metallica.php"><img src="images/musica-metallica.jpg" alt="imagem da banda Metallica" class="col-xs-12 col-sm12  col-md-12 col-lg-12 hidden-xs hidden-sm"></a>
                 <h2 class="news text-center">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
             </div>
@@ -111,7 +111,7 @@
                 <a href="lazer.php"><img src="images/a-2.jpg" alt="Cine Olympia, lugar com filmes cult." class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
                 <h2 class="news text-center">Tá afim de fugir da rotina e curtir um cine cult?</h2>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
                 <a href="lazer.php"><img src="images/a-5.jpg" alt="imagem de interior de um teatro com pano azual no fundo" class="col-xs-12 col-sm12  col-md-12 col-lg-12 hidden-xs hidden-sm"></a>
                 <h2 class="news text-center">Sugestões Culturais</h2>
             </div>
@@ -130,7 +130,7 @@
                 <a href="hq-gibi11.php"><img src="images/hq-noticia11.jpg" alt="imagem do Dragon Ball Z" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"></a>
                 <h2 class="news text-center">Esfera do Dragão, Super Sayajins? Entenda como tudo começou!</h2>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 hidden-xs hidden-sm">
                 <a href="hq-gibi12.php"><img src="images/hq-noticia12.jpg" alt="imagem da série Bleach" class="col-xs-12 col-sm12  col-md-12 col-lg-12 hidden-xs hidden-sm"></a>
                 <h2 class="news text-center">O mistério continua na nova edição de Bleach!</h2>
             </div>
