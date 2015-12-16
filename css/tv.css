@@ -32,6 +32,11 @@ a.tv-title{
 	text-decoration: none;
 	color:black;
 }
+
+a.tv-link{
+	
+	color:black;
+}
  
  h3.news {
 	padding: 5px;
@@ -48,17 +53,4 @@ h2.destaque {
 	font-size: 20px;	
 }
 
-/*
-.houver:hover{
-    font-size: 24px;      	
-	   }
 
-.houver-1:hover{
-  	font-size: 38px;
-      	
-	   }
-.houver-2:hover{
-  	font-size: 28px;
-      	
-	   }
-*/

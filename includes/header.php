@@ -18,8 +18,6 @@
 		                <li><a href="musica.php">Música</a></li>
 		                <li><a href="lazer.php">Lazer</a></li>
 		                <li><a href="hqs.php">HQ</a></li>
-		                <li><a href="quem-somos.php">Quem somos</a></li>
-		                <li><a href="termos.php">Termos de Uso</a></li>
 		                <li><a href="contato.php">Contato</a></li>
 		            </ul>
 		        </div>

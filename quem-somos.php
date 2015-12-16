@@ -35,7 +35,7 @@
                 <p class=""><strong>Mini biografia:</strong></p>
                 <p>Matheus é um cara muito tranquilo que não sabe muito bem o que quer da vida.</p>
                 <p class=""><strong>Responsabilidade:</strong></p>
-                <p>Gerente de projeto</p>
+                <p>Gerente de projeto, categoria <a href="musica.php" class="link">Música</a></p>
                 <a href="https://github.com/matheuswd">
                     <p class="btn btn-default"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</p>
                 </a>
@@ -50,7 +50,7 @@
                 <p class=""><strong>Mini biografia:</strong></p>
                 <p>Um cara que curte uma cerveja, um truco e odeia jogar na equipe do Matheus porque ele é muito chato.</p>
                 <p class=""><strong>Responsabilidade:</strong></p>
-                <p>Sessão de Filmes</p>
+                <p>Sessão de <a href="filmes.php" class="link">Filmes</a></p>
                 <a href="https://github.com/Jonadab01">
                     <p class="btn btn-default"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</p>
                 </a>
@@ -65,7 +65,7 @@
                 <p class=""><strong>Mini biografia:</strong></p>
                 <p>Um cara que gosta de ler, assistir filmes e séries, jogar, estudar, conhecer pessoas, escutar músicas e pensar (claro, não necessariamente nessa ordem).</p>
                 <p class=""><strong>Responsabilidade:</strong></p>
-                <p>Lazer e mapas do site</p>
+                <p><a href="lazer.php" class="link">Lazer</a> e mapas do site</p>
                 <a href="http://github.com/andrecollareda">
                     <p class="btn btn-default"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</p>
                 </a>
@@ -80,7 +80,7 @@
                 <p class=""><strong>Mini biografia:</strong></p>
                 <p>Rone é um pai de família, que curte fazer as lições de Práticas de Design.</p>
                 <p class=""><strong>Responsabilidade:</strong></p>
-                <p>HQs e Wireframes</p>
+                <p><a href="hqs.php" class="link">HQs</a> e Wireframes</p>
                 <a href="http://github.com/matheuswd">
                     <p class="btn btn-default"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</p>
                 </a>
@@ -95,7 +95,7 @@
                 <p class=""><strong>Mini biografia:</strong></p>
                 <p>Elton é jogador de bola  semi-profissional, trabalha com projeto (projetista) e entrou pra TI esperando mudar de vida, ficar menos pobre.</p>
                 <p class=""><strong>Responsabilidade:</strong></p>
-                <p>TV e Wireframes</p>
+                <p><a href="tv.php" class="link">TV</a> e Wireframes</p>
                 <a href="http://github.com/Elton2015">
                     <p class="btn btn-default"><img src="images/icone-github.png" alt="Ícone do Github" class="icons"> Github</p>
                 </a>

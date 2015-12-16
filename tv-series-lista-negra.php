@@ -60,7 +60,7 @@
         <div class="clearfix"></div>
         
       
-            <a href="tv-series-heroes.php"><h2> Confira Detalhes do Seriado mais esperado "Heroes":</h2></a>
+            <a class="tv-link" href="tv-series-heroes.php"><h2> Confira Detalhes do Seriado mais esperado "Heroes":</h2></a>
             
         </article>
         <aside class="col-xs-12 col-sm-4 col-md-4 col-lg-4">

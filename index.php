@@ -41,7 +41,8 @@
         <div class="clearfix"></div>
         <!-- categories -->
         <!-- movies -->
-       <section>
+        <div class="row">
+        <section>
             <div class="color-margin">
                 <h1 class="text-center title-home">Filmes</h1>
             </div>
@@ -58,6 +59,8 @@
                 <h2 class="news text-center">Jogos Vorazes</h2>
             </div>
         </section>
+        </div>
+        <div class="row">
         <section>
             <div class="color-margin">
                 <h1 class="text-center title-home">TV</h1>
@@ -75,6 +78,8 @@
                 <h2 class="news text-center">Novo Humor "Stand Up"</h2>
             </div>
         </section>
+        </div>
+        <div class="row">
         <section>
             <div class="color-margin">
                 <h1 class="text-center title-home">Música</h1>
@@ -92,6 +97,8 @@
                 <h2 class="news text-center">Metallica anuncia para todos os fãs que está chegando ao fim</h2>
             </div>
         </section>
+        </div>
+        <div class="row">
         <section>
             <div class="color-margin">
                 <h1 class="text-center title-home">Lazer</h1>
@@ -109,6 +116,8 @@
                 <h2 class="news text-center">Sugestões Culturais</h2>
             </div>
         </section>
+        </div>
+        <div class="row">
         <section>
             <div class="color-margin">
                 <h1 class="text-center title-home">HQs</h1>
@@ -126,6 +135,7 @@
                 <h2 class="news text-center">O mistério continua na nova edição de Bleach!</h2>
             </div>
         </section>
+        </div>
         
     </div>
 <?php

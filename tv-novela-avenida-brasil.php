@@ -63,7 +63,7 @@
                 Fuga praesentium ut a ametQuaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
                 Fuga praesentium ut a ameted ut perspiciatis unde omnis iste natus error sit voluptatem accusantium 
                 et quasi architecto beatae vitae dictais suscipit laboriosam, nisi ut aliquid ex ea commodi c.</p> 
-                 <a href="tv-novela-o-clone.php"><h2> Confira Detalhes de uma das Novelas de maior audiência "O Clone":</h2></a>
+                 <a class="tv-link" href="tv-novela-o-clone.php"><h2> Confira Detalhes de uma das Novelas de maior audiência "O Clone":</h2></a>
         </article>
         <aside class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <div class="container related-container">

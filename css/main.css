@@ -125,8 +125,15 @@ div.qs-border {
 	margin-bottom: 200px;
 }
 
+.link{
+	color: #000000;
+}
 
-/*    */
+.link:hover{
+	color: #454545;
+}
+
+/*  footer  */
 
 .footer-basic-centered{
 	background-color: #292c2f;
@@ -166,17 +173,3 @@ div.qs-border {
 	text-decoration: none;
 	color: inherit;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

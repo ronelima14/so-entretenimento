@@ -62,7 +62,7 @@
             	<img src="images/tv-propaganda-sky.jpg" alt="imagem propaganda de tv por assinatura sky" class="img-responsive col-xs-12 col-sm-12 col-md-12 col-lg-12">
             </a>
             <iframe  src="https://www.youtube.com/embed/EM9fE6dxpmw"  allowfullscreen></iframe> 
-                <p><a href="https://www.youtube.com/embed/EM9fE6dxpmw">Assista no youtube </a></p>
+                <p><a class="tv-link" href="https://www.youtube.com/embed/EM9fE6dxpmw">Assista no youtube </a></p>
             
         </aside>
         <!-- TV -->

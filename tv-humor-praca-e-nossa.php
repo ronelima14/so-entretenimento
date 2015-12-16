@@ -37,8 +37,8 @@
  
 A estreia de A Praça É Nossa no SBT aconteceu no dia 7 de maio de 1987. Anteriormente, de 1957 a 1976, a atração, sob o comando de Manoel de Nóbrega, era chamada "A Praça da Alegria" e exibida na extinta TV Paulista (que depois viria a ser a TV Globo). Em seguida, a atração passou pela Record e TV Rio até sair do ar nos anos 70.</p>
             Ao conquistar todas as faixas etárias e classes sociais, A Praça É Nossa sempre se destacou pela diversificação em seu humor. Nestes anos foram produzidos mais de mil programas inéditos. Sem contar que já desfilaram pelo banco da Praça mais de 120 artistas, entre humoristas e comediantes, que protagonizaram o respeitável número de 250 personagens.
-            <p><small>fonte:<a href=http://www.sbt.com.br/apracaenossa/programa/>http://www.sbt.com.br/apracaenossa/programa/</a></small></p>
-        <a href="tv-humor-stand-up.php"><h2> Confira Detalhes do Novo Humor "Stand Up":</h2></a>
+            <p><small>fonte:<a class="tv-link" href=http://www.sbt.com.br/apracaenossa/programa/>http://www.sbt.com.br/apracaenossa/programa/</a></small></p>
+        <a href="tv-humor-stand-up.php" class="tv-link"><h2> Confira Detalhes do Novo Humor "Stand Up":</h2></a>
         </article>
         <aside class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <div class="container related-container">

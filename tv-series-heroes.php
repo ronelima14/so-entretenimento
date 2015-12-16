@@ -57,7 +57,7 @@
             <h3>Curiosidades</h3><p>Kit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
                 impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
                 Fuga praesentium ut a amet.</p>
-                <a href="tv-series-lista-negra.php"><h2> Confira Detalhes do Seriado de Maior Sucesso "Lista Negra":</h2></a>
+                <a class="tv-link" href="tv-series-lista-negra.php"><h2> Confira Detalhes do Seriado de Maior Sucesso "Lista Negra":</h2></a>
             
         </article>
         <aside class="col-xs-12 col-sm-4 col-md-4 col-lg-4">

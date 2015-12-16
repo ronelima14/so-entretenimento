@@ -16,9 +16,9 @@
 				<a href="hqs.php">HQ</a>
 				·
 				<a href="quem-somos.php">Quem somos</a>
-				.
+				·
 				<a href="termos.php">Termos de Uso</a>
-				.
+				·
 				<a href="contato.php">Contato</a>
 			</p>
 

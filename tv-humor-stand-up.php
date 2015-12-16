@@ -46,7 +46,7 @@
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur laborum architecto alias debitis, 
                 impedit pariatur! Quaerat, vel? Amet labore neque, dolor repellendus ab earum asperiores. 
                 Fuga praesentium ut a amet</p>
-            <a href="tv-humor-praca-e-nossa.php"><h2> Confira Detalhes do Programa de Humor que Atravessa Gerações"A Praça é Nossa":</h2></a>
+            <a class="tv-link" href="tv-humor-praca-e-nossa.php"><h2> Confira Detalhes do Programa de Humor que Atravessa Gerações"A Praça é Nossa":</h2></a>
            
     
         </article>

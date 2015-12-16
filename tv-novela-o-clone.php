@@ -61,7 +61,7 @@
             	Fuga praesentium ut a amet.</p>
                
 
-                 <a href="tv-novela-avenida-brasil.php"><h2> Confira Detalhes da  Novela que parou o país "Avenida Brasil":</h2></a>
+                 <a class="tv-link" href="tv-novela-avenida-brasil.php"><h2> Confira Detalhes da  Novela que parou o país "Avenida Brasil":</h2></a>
         </article>
         <aside class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
             <div class="container related-container">
